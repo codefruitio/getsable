@@ -21,15 +21,15 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Tyler Plesetz                               
-your_link                                 :                      
-your_city                                 : Milwaukee, WI                               
+your_link                                 : https://www.patreon.com/CodeFruit                     
+your_city                                 : the USA                               
 email_address                             : ty@plesetz.com
 facebook_username                         :                                           
 instagram_username                        : 
-twitter_username                          : tplesetz
-github_username                           : tplesetz
-youtube_username                          :
-mastodon_link                             : 
+twitter_username                          : 
+github_username                           : codefruitio
+youtube_username                          : codefruit
+mastodon_link                             : https://mastodon.social/@typlesetz
 
 
 
