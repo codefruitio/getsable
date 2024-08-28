@@ -5,10 +5,10 @@ include_in_header: false
 ---
 
 **Last updated**  
-October 4 2023
+September 2024
 
 # Privacy Policy
-Thank you for using an Appalanche Games product. We are committed to protecting your privacy and providing a safe and secure user experience. This Privacy Policy explains our practices regarding the collection, use, and disclosure of any personal information.
+Thank you for using a CodeFruit product. We are committed to protecting your privacy and providing a safe and secure user experience. This Privacy Policy explains our practices regarding the collection, use, and disclosure of any personal information.
 
 <br>
 
@@ -43,4 +43,4 @@ We reserve the right to update or modify this Privacy Policy at any time. Any ch
 <br>
 
 ## 7.0 Contact Us
-If you have any questions, concerns, or suggestions regarding this Privacy Policy, please contact us at [support@appalanche.games](mailto:support@appalanche.games)
+If you have any questions, concerns, or suggestions regarding this Privacy Policy, please contact us at [tyler@codefruit.io](mailto:tyler@codefruit.io)
