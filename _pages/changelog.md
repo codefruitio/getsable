@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 ### `Initial Release`
-# **Version 1.0**
+# **2024.9**
 
 #### What's New
  - Pause/resume queue or downloads
