@@ -4,7 +4,32 @@ title: What's New
 include_in_header: true
 ---
 
+### `Coming Soon`
+# **2024.11.1**
+
+#### New
+- New settings for large queue performance
+
 ### `Current Release`
+# **2024.11**
+
+#### New
+- Category management
+- New Quotes
+- Added view limits to History & Queue
+
+# **2024.10.1**
+
+#### New
+- Added lifetime purchase option
+
+# **2024.10**
+
+#### New
+- Headers are now supported for authentication
+- Upload multiple NZB files at once
+- Customizable widget backgrounds
+
 # **2024.9.1**
 
 #### New
